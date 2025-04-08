@@ -24,8 +24,21 @@ ads.reddit.com
 business.samsungusa.com
 amazonaax.com
 pagead2.googleadservices.com
+afs.googlesyndication.com
 sdkconfig.ad.xiaomi.com
 sdkconfig.ad.intl.xiaomi.com
+static.media.net
+media.net
+click.googleanalytics.com
+ads-api.twitter.com
+ads.pinterest.com
+analytics.pinterest.com
+ads.tiktok.com
+ads.yahoo.com
+partnerads.ysm.yahoo.com
+log.fc.yahoo.com
+gemini.yahoo.com
+tracking.rus.miui.com
 
 90.audio-ak.cdn.spotify.com
 sto3-outbound-a1.sto3.spotify.com
